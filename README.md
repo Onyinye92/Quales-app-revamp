@@ -51,4 +51,5 @@ Ensure you have the following installed before running the script:
 ## Author
 Onyinye Sarah Azunna
 onyinyeazunna5@gmail.com
+Happy Coding! 🚀
 
